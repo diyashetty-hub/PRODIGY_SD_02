@@ -24,15 +24,9 @@ The game also displays the total number of attempts taken once the correct numbe
 
 ### 🔢 When the guess is correct
 
-
-
 ### 🔺 When the number is too high
 
-
-
 ### 🔻 When the number is too low
-
-
 
 ## 🛠 Built With
 * Python 🐍
